@@ -1,0 +1,17 @@
+.introduction__signature{
+   font-size: 10px;
+   line-height: 1.4;
+   text-transform: uppercase;
+   letter-spacing: 0.15em;
+   margin: 8px 0 0 0;
+}
+@media screen and (max-width: 768px){
+   .introduction__signature{
+      margin-left: 24px;
+   }
+}
+@media screen and (max-width: 320px){
+   .introduction__signature{
+      margin-left: 16px;
+   }
+}

@@ -1,0 +1,24 @@
+.image-cards__list{
+   list-style-type: none;
+   padding: 0;
+   display: grid;
+   grid-template-columns: repeat(4, 284px);
+   gap: 16px;
+   justify-content: center;
+   margin: 0;
+}
+@media screen and (max-width:1184px){
+   .image-cards__list{
+      grid-template-columns: repeat(3, 284px);
+   }
+}
+@media screen and (max-width:1010px){
+   .image-cards__list{
+      grid-template-columns: repeat(2, 284px);
+   }
+}
+@media screen and (max-width:768px){
+   .image-cards__list{
+      grid-template-columns: 284px;
+   }
+}

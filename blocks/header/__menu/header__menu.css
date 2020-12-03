@@ -1,0 +1,10 @@
+.header__menu{
+   margin-top: 46px;
+   margin-right: 48px;
+}
+@media screen and (max-width:768px){
+   .header__menu{
+      margin-top: 30px;
+      margin-right: 16px;
+   }
+}

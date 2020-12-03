@@ -1,0 +1,7 @@
+.introduction__poster{
+   display: flex;
+   flex-direction: column;
+   margin: 0 auto;
+   max-width: 984px;
+   min-width: 320px;
+}
