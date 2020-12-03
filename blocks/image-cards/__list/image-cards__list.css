@@ -7,18 +7,21 @@
    justify-content: center;
    margin: 0;
 }
-@media screen and (max-width:1184px){
+@media screen and (max-width:1200px){
    .image-cards__list{
-      grid-template-columns: repeat(3, 284px);
+      grid-template-columns: repeat(3, 300px);
+      gap: 14px;
    }
 }
 @media screen and (max-width:1010px){
    .image-cards__list{
-      grid-template-columns: repeat(2, 284px);
+      grid-template-columns: repeat(2, 352px);
+      gap: 16px;
    }
 }
-@media screen and (max-width:768px){
+@media screen and (max-width: 730px){
    .image-cards__list{
-      grid-template-columns: 284px;
+      grid-template-columns: 288px;
+      gap: 12px;
    }
 }

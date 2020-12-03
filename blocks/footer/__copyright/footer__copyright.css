@@ -1,7 +1,9 @@
 .footer__copyright{
+   font-size: 14px;
+   line-height: 1.14;
    margin: 18px 0 0 0;
 }
-@media screen and (max-width:768px){
+@media screen and (max-width:758px){
    .footer__copyright{
       margin: 0 0 24px 16px;
    }

@@ -5,6 +5,16 @@
    letter-spacing: 0.15em;
    margin: 8px 0 0 0;
 }
+@media screen and (max-width: 1080px){
+   .introduction__signature{
+      margin: 0 0 0 28px;
+   }
+}
+@media screen and (max-width: 930px){
+   .introduction__signature{
+      margin-left: 0;
+   };
+}
 @media screen and (max-width: 768px){
    .introduction__signature{
       margin-left: 24px;

@@ -4,7 +4,12 @@
    text-align: center;
    margin: 0 auto 64px;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1080px){
+   .subtitle{
+      margin-bottom: 56px;
+   }
+}
+@media screen and (max-width: 690px){
    .subtitle{
       font-size: 16px;
       line-height: 1.25;

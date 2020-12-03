@@ -4,8 +4,9 @@
    font-weight: 900;
    text-align: center;
    position: relative;
+   margin-top: 1px;
 }
-@media screen and (max-width:768px){
+@media screen and (max-width:748px){
    .cover__title{
       font-size: 32px;
       line-height: 1.09;
