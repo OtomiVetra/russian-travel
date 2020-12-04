@@ -19,7 +19,7 @@
       gap: 16px;
    }
 }
-@media screen and (max-width: 730px){
+@media screen and (max-width: 740px){
    .image-cards__list{
       grid-template-columns: 288px;
       gap: 12px;
