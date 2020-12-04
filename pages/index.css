@@ -14,7 +14,6 @@
 @import "../blocks/introduction/__title/introduction__title.css";
 @import "../blocks/introduction/__text/introduction__text.css";
 @import "../blocks/introduction/__list/introduction__list.css";
-@import "../blocks/introduction/__list-text/_type/introduction__list-text_type_number.css";
 @import "../blocks/image-cards/__list/image-cards__list.css";
 @import "../blocks/image-cards/__card/image-cards__card.css";
 @import "../blocks/places/__list/places__list.css";
