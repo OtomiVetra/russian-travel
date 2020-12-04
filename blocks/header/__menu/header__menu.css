@@ -1,6 +1,9 @@
 .header__menu{
+   display: flex;
+   list-style-type: none;
    margin-top: 46px;
    margin-right: 48px;
+   padding: 0;
 }
 @media screen and (max-width: 1000px){
    .header__menu{
